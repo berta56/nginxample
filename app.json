@@ -1,5 +1,5 @@
 {
-    "repository": "",
+    "repository": "https://github.com/berta56/nginxample",
     "stack": "container",
 	"env": {
       "APP_NAME" : {
